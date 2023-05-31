@@ -1,0 +1,39 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Visual Studio Code specific
+*.sln
+*.csproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.sln.docstates
+*_i.c
+*_p.c
+*.pidb.meta
+
+# Rider specific
+.idea/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+*.apk
+*.unitypackage
+*.zip
+*.rar
+
+# Other
+*.pdf
